@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Youness-If
-- 👀 I’m interested in computer science
-- 🌱 I’m currently studying computer science in Mohammadia school of engineering in Rabat/Morocco
+- 👋 Hi, I’m Youness Ifrah
+- 👀 I’m interested in computer science ( Fullstack dev, DevOps, Cloud )
+- 🌱 I’m currently studying computer science in Mohammadia school of engineers in Rabat/Morocco
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 you can reach me using this email addresse: younessifrah4@gmail.com
