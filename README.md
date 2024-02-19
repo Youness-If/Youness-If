@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Youness Ifrah
-- 👀 I’m interested in computer science ( Fullstack dev, DevOps, Cloud )
-- 🌱 I’m currently studying computer science in Mohammadia school of engineers in Rabat/Morocco
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in computer science ( DevOps, Cloud, Fullstack dev)
+- 🌱 I’m currently studying computer science in Mohammadia school of engineers in Rabat/Morocco, and at same time i work as a DevOps/NetOps enginner at Nokia
+- 💞️ I’m looking to collaborate on every kind of IT project
 - 📫 you can reach me using this email addresse: younessifrah4@gmail.com
